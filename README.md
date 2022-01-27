@@ -15,7 +15,7 @@ in the repository directory.
 
 ### Copyright
 
-Copyright (c) 2022, nick
+Copyright (c) 2022, Nicholas Mayhall
 
 
 #### Acknowledgements
