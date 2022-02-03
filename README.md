@@ -16,6 +16,8 @@ To submit your feature to be incorporated to the main branch, you should submit 
 
 To submit your feature to be incorporated to the main branch, you should submit a `Pull Request`. The repository maintainers will review your pull request before accepting your changes.
 
+To submit your feature to be incorporated to the main branch, you should submit a `Pull Request`. The repository maintainers will review your pull request before accepting your changes.
+
 ### Copyright
 
 Copyright (c) 2022, Nicholas Mayhall
