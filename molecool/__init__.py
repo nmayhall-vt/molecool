@@ -2,6 +2,7 @@
 
 # Add imports here
 from .functions import *
+from .xyz import *
 from .measure import * 
 
 # Handle versioneer
